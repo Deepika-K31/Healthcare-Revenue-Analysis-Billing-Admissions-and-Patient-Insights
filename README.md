@@ -59,7 +59,9 @@ Monthly admission trends show predictable patterns. Use historical data to plan 
 
 ## Dataset Source
 Healthcare Dataset — Kaggle
+
 Synthetic dataset modelled on real-world hospital billing and patient records.
+
 Patient privacy maintained — no real patient data used.
 
 
