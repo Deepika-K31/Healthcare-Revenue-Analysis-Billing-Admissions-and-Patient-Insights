@@ -55,7 +55,7 @@ Monthly admission trends show predictable patterns. Use historical data to plan 
 - Gender split is too uniform (50/50) — real data would show condition-specific gender patterns
 
 ## Skills Demonstrated
-`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `SQL` `pandasql` `Feature Engineering` `Data Cleaning` `Healthcare Analytics` `Business Recommendations` `EDA`
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `SQL` `pandasql` `Feature Engineering` `Data Cleaning` `Healthcare Analytics` `Business Recommendations` `EDA` `Power BI`
 
 ## Dataset Source
 Healthcare Dataset — Kaggle
